@@ -1,11 +1,11 @@
-# Hi 👋 I'm Aryan Vora
+# Hi I'm Aryan Vora
 
-🎓 **CS Student @ UCSC**  
-💡 Interested in **AI** and **Full-Stack Development**  
-🌍 Explore my **portfolio**: [aryanvoraportfolio.vercel.app](https://aryanvoraportfolio.vercel.app)  
-📝 Read my articles on **Medium**: [@aryanvora](https://medium.com/@aryanvora)
+**CS Student @ UCSC**  
+Interested in **AI** and **Full-Stack Development**  
+Explore my **portfolio**: [aryanvoraportfolio.vercel.app](https://aryanvoraportfolio.vercel.app)  
+Read my articles: [@aryanvora](https://medium.com/@aryanvora)
 
-## 🔧 Tech Stack
+## Tech Stack
 ### Languages  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
